@@ -11,7 +11,7 @@
 
 * name: First White Belt Activity
 * type: tutorial
-* description: Intro to our tutorial cards
+* description: Intro to our tutorialggppgcards
 * tags: easy
 
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
