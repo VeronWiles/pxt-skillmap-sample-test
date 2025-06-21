@@ -9,7 +9,7 @@
 
 ### interface-activity1
 
-* name: Learn to use MakeCode Arcade
+* name: First White Belt Activity
 * type: tutorial
 * description: Intro to our tutorial cards
 * tags: easy
