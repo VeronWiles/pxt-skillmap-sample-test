@@ -11,6 +11,7 @@
 
 * name: First White Belt Activity
 * description: 1st WB Activity
+* type: tutorial
 * tags: easy
 * next: white-belt-activity2
 
@@ -21,6 +22,7 @@
 
 * name: Second White Belt Activity
 * description: 2nd WB Activity
+* type: tutorial
 * tags: easy
 
 * url: https://github.com/VeronWiles/pxt-skillmap-sample-test/tutorials/white-belt/activity2 
@@ -35,6 +37,7 @@
 
 * name: First Orange belt Activity
 * description: 1st Orange belt Activity
+* type: tutorial
 * tags: easy
 
 * url: https://github.com/VeronWiles/pxt-skillmap-sample-test/tutorials/orange-belt/activity1
