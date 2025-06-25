@@ -1,6 +1,7 @@
-# sample
-* name: Homework
-* description: Level up your game making skills by completing the tutorials in this guide.
+# at-home-work
+* name: Code Ninjas Richmond At Home Work
+* description: This is a Test.
+* backgroundurl: https://raw.githubusercontent.com/VeronWiles/pxt-skillmap-sample-test/main/img/map/bg.png
 
 ## interface
 * name: Super Duper Homework

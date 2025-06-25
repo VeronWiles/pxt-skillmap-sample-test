@@ -1,5 +1,5 @@
 {
-    "name": "pxt-skillmap-sample",
+    "name": "pxt-skillmap-sample-test",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
@@ -8,17 +8,9 @@
     "files": [
         "README.md",
         "skillmap.md",
-        "tutorials/interface/activity1.md",
-        "tutorials/platformer/activity1.md",
-        "tutorials/platformer/activity2.md",
-        "tutorials/platformer/activity3.md",
-        "tutorials/platformer/activity4.md",
-        "tutorials/platformer/activity5.md",
-        "tutorials/space/activity1.md",
-        "tutorials/space/activity2.md",
-        "tutorials/space/activity3.md",
-        "tutorials/space/activity4.md",
-        "tutorials/space/activity5.md"
+        "tutorials/white-belt/activity1.md",
+        "tutorials/white-belt/activity2.md",
+        "tutorials/orange-belt/activity1.md"
     ],
     "testFiles": [
     ],
