@@ -1,7 +1,7 @@
 # at-home-work
 * name: Code Ninjas Richmond At Home Work
 * description: This is a Test.
-* backgroundurl: https://raw.githubusercontent.com/VeronWiles/pxt-skillmap-sample-test/main/img/map/bg.png
+* backgroundurl: https://raw.githubusercontent.com/VeronWiles/pxt-skillmap-sample-test/main/img/map/bg.jpg
 
 ## interface
 * name: Super Duper Homework
